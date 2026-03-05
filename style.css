@@ -13,6 +13,7 @@ body {
   ); /* change the background colour here - you can specify a solid colour, a gradiant or an image - you can find HEX codes for colours at https://htmlcolorcodes.com/ */
   background-image: cover;
 }
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -29,6 +30,7 @@ body {
     <div>Making the Web Beautiful!</div>
   </body>
 </html>
+
 /* font used for dropdown menu - edit this*/
 h2 {
   font-family: "Tangerine", cursive;
@@ -39,6 +41,7 @@ h2 {
   margin-bottom: 0;
   text-align: center;
 }
+
 
 /* header for error code Retry */
 h3 {
