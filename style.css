@@ -13,10 +13,25 @@ body {
   ); /* change the background colour here - you can specify a solid colour, a gradiant or an image - you can find HEX codes for colours at https://htmlcolorcodes.com/ */
   background-image: cover;
 }
-
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Tangerine">
+    <style>
+      body {
+        font-family: 'Tangerine', serif;
+        font-size: 48px;
+      }
+    </style>
+  </head>
+  <body>
+    <div>Making the Web Beautiful!</div>
+  </body>
+</html>
 /* font used for dropdown menu - edit this*/
 h2 {
-  font-family: "Kalam", cursive;
+  font-family: "Tangerine", cursive;
   text-shadow: 1px 1px white;
   font-size: 30px;
   font-style: bold;
@@ -27,14 +42,14 @@ h2 {
 
 /* header for error code Retry */
 h3 {
-  font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: "Helvetica Neue", Helvetica, Tangerine, sans-serif;
   color: black;
   text-align: center;
 }
 
 /* font used for title of haiku - edit this */
 h4 {
-  font-family: "Zen Dots", cursive;
+  font-family: "Tangerine", cursive;
   font-size: 22px;
   font-style: bold;
   text-align: center;
