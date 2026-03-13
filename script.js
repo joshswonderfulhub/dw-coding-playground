@@ -12,14 +12,14 @@ var speed = 50;
 
 //function for network error message
 const sent1 = [
-  "Your device is not connected.",
-  "Make sure '[—]' is turned on and in range.",
-  "Now discoverable as '[—]'.",
-  "Connection unsuccessful.",
-  "Your connection is unstable.",
-  "Out of range.",
-  "Unexpected device.",
-  "Bad connection.",
+  "i a sorry.",
+  "no! no!!!!!!.",
+  "HELLLLLLLLL NOOOOOOO.",
+  "WAIITIIIT",
+  "CAN YOU STOP PLEASSEEEEE.",
+  "waiiiiiiitt :3.",
+  "ohhhhhhhh my guh",
+  "you are so kute",
 ];
 
 const buttonRetry = document.getElementById("button-network");
@@ -45,13 +45,15 @@ function dropdownFun() {
     addText("🛩️🐦🦅🦋🌪️💭");
   } else if (x === "vague") {
     addText("🥱👽🐙🪼🌘");
-  } else if (x === "joyful") {
-    addText("😀😍😸👾👻🕺");
+  } else if (x === "happyful") {
+    addText("🤣🤣🤣🤣🤣🤣😁🤣🤣🤣🤣🤣🤣");
   } else if (x === "cloudy") {
     addText("🌦️🌨️🫧🌫️☔⚡🥶");
-  } else if (x === "hangry") {
-    addText("🍟🥨🌮🥗🍱");
-  }
+  } else if (x === "chud") {
+    addText("🤕🤕🤕🤕🤕🤕🤕🤕🤕🤕🤕🤕");
+  } else if (x === "fugly") {
+    addText("😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭");
+}
 }
 //end of dropdown function
 
@@ -156,15 +158,15 @@ textInput.addEventListener("input", changeText);
 //start of code for poem
 
 const subjects =
-    "robots, pilgrims, broken families, displaced animals, right-wing militants, cyborgs".split(
+    "christos tsiolkas, soundcloud rapper, metro tunnel addict, ishowspeed, da kirk, osamason".split(
       ","
     ),
   verbs =
-    "wander,search, cross, kneel to pray in, avoid, survey, sneak across, hide in".split(
+    "freaking, wilting, ranting, hugging, digesting, ravaging, planting, crazily".split(
       ","
     ),
   objects =
-    "the barren plains,the wilted grasslands, vast wastelands,wildernesses unknown,languishing caravan parks, arid deserts, military bunkers, valleys of ash and bone".split(
+    "the iphone 16 ,the soothing sound, 2 and a half digestives, marrybrown meal,interesting squares, dymocks, the oxford, appyrol".split(
       ","
     );
 // set up the counter

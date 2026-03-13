@@ -45,7 +45,7 @@ h2 {
 
 /* header for error code Retry */
 h3 {
-  font: "Helvetica Neue", Helvetica, Tangerine, sans-serif;
+  font: "Helvetica Neue", Helvetica, "Tangerine", sans-serif;
   color: black;
   text-align: center;
 }
@@ -62,6 +62,7 @@ h4 {
 h5 {
   font-size: 15px;
   text-align: 20px right;
+  color:rgb(255, 255, 255)
 }
 
  .rotate-text {
@@ -71,15 +72,16 @@ h5 {
 
 /* Style the card for the header/title card */
 .cardTitle {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  box-shadow: 0 4px 8px 0 rgb(255, 255, 255); /* this adds the "card" effect */
   padding: 16px;
   border-radius: 10px 10px 10px 10px;
-  background-image: url("./img/clouds.jpg");
+  background-image: url("./img/FRUIT\ BORDER.png");
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
   font-family: "PT Serif", serif;
   font-size: 1.5em;
+  color:rgb(255, 255, 255)
 }
 
 /* Style the card for phone error alerts (do not edit)*/
@@ -91,7 +93,7 @@ h5 {
   margin-bottom: 20px;
   width: 200px;
   border-radius: 10px 10px 10px 10px;
-  background-color: white;
+  background-color: rgb(231, 13, 13);
   font: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: black;
 }
@@ -175,9 +177,9 @@ h5 {
   min-height: 375px;
   border-radius: 10px 10px 10px 10px;
   text-align: left;
-  background-color: #000000;
-  background-image: url("./img/catBG.gif"); /* replace this gif background with an image of your choosing or create your own gif at giphy.com using a plain background and adding effects or just delete the background-image property and you can set the background-color to what you want (it's currently black)*/
-  color: #68d911;
+  background-color: #0008ff;
+  background-image: url("./img/speed-degloved.gif"); /* replace this gif background with an image of your choosing or create your own gif at giphy.com using a plain background and adding effects or just delete the background-image property and you can set the background-color to what you want (it's currently black)*/
+  color: #ff0000;
   font-family: "Source Code Pro", monospace;
   font-size: 14px; 
 }
